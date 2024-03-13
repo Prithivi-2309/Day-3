@@ -1,4 +1,4 @@
-//Q1 Anno
+//Q1
 var getOddNumbers =function (data){
 
     for (var i=0; i<data.length; i++){
